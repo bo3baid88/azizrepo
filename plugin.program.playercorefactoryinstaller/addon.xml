@@ -1,0 +1,10 @@
+<addon id="plugin.program.playercorefactoryinstaller"
+       name="PlayerCoreFactory Installer"
+       version="1.0.0"
+       provider-name="azizrepo">
+  <extension point="xbmc.addon.metadata">
+    <summary>Install external player integration for Plex Kodi Connect</summary>
+    <description>Installs playercorefactory.xml using a simple tool</description>
+    <platform>all</platform>
+  </extension>
+</addon>
